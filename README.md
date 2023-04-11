@@ -1,4 +1,4 @@
-![alt text](https://github.com/livingicon/knights-travail/blob/main/src/images/knights-travail.png?raw=true)
+![alt text](https://github.com/livingicon/knights-travails/blob/main/src/images/knights-travail.png?raw=true)
 
 <h1>Knights Travails</h1>
 
